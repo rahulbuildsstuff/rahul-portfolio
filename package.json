@@ -1,0 +1,9 @@
+{
+  "name": "rahul-nalla-portfolio",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Portfolio of Rahul Nalla",
+  "dependencies": {
+    "nodemailer": "^6.9.16"
+  }
+}
