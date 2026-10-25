@@ -16,7 +16,7 @@ A static site (`index.html`) plus one serverless function (`api/contact.js`) tha
 4. `OPEN_TO_INTERNSHIPS`  set to false to hide the internships line
 
 ## Set your website address (for Google and link previews)
-In `index.html`, `robots.txt` and `sitemap.xml`, replace `https://rahul-portfolio.vercel.app` with your real address once you know it
+In `index.html`, `robots.txt` and `sitemap.xml`, replace `https://rahulbuildsstuff.vercel.app` with your real address once you know it
 (your Vercel project URL or your own domain). It appears in the canonical link, og:url, og:image, twitter:image and the JSON-LD block.
 
 ## Run locally
